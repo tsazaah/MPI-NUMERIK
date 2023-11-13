@@ -118,7 +118,7 @@ Panduan ini menyediakan petunjuk langkah demi langkah untuk membuat master dan s
     cd /home/mpiusr/fix
     nano pers22.py
     ```
-    Kemudian buat kode Python Bubble Sort. Simpan dengan menekan `CTRL + X` lalu tekan `Y`.
+    Kemudian buat kode Python Numerik. Simpan dengan menekan `CTRL + X` lalu tekan `Y`.
     
 
 3. Jalankan kode tersebut pada master:
